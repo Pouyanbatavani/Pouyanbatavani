@@ -5,11 +5,14 @@ Developer & Still learning
 -----------------------------
 
 *   🖥️  You Can Do EveryThing With Programming
-*   🚀  I'm currently working on Websites
-*   🤝  I'm open to collaborating on interesting projects as a web and Windows Bussines Software
+*   🚀  I'm currently working on Mobile Applications
+*   🤝  I'm open to collaborating on interesting projects as a web(Full stack developer)
 
 ### Skills
 <p align="left">
+ <a href="https://docs.microsoft.com/en-us/flutter/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="30" height="30" alt="flutter" /></a>
+ <a href="https://docs.microsoft.com/en-us/dart/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dart-colored.svg" width="30" height="30" alt="dart" /></a>
+ 
  <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="30" height="30" alt="CSharp" /></a>
       <a href="https://docs.microsoft.com/en-us/dotnet/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dot-net-colored.svg" width="30" height="30" alt="DotNet" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="30" height="30" alt="Javascript" /></a>
