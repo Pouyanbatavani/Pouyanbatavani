@@ -31,6 +31,7 @@ Developer & Still learning
 <p align="left">
     <a href="https://www.instagram.com/pouyanbatvani" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="28" height="28" /></a>
 <a href="https://www.github.com/pouyanbatavani" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="28" height="28" /></a>
+ <a href="https://www.linkedin.com/pouyanbatavani" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="28" height="28" /></a>
  
 
 ### Badges
